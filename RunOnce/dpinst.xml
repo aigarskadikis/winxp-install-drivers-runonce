@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<dpinst>
+
+<search>
+<subDirectory>*</subDirectory>
+</search>
+<enableNotListedLanguages/>
+<suppressEulaPage/>
+<suppressAddRemovePrograms/>
+<quietInstall/>
+
+<!-- Only install drivers for online hardware -->
+<scanHardware/>
+
+<!-- No driver signature required -->
+<legacyMode/>
+
+</dpinst>
